@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning frontend development (<a href="https://frontendmasters.com">FrontEndMasters</a>) and deeplearning (<a href="https://www.kaggle.com">Kaggle</a> and <a href="https://www.freecodecamp.org">FreeCodeCamp</a>)
 - 💞️ I’m looking to collaborate on projects that improve my learning 
 - 📫 How to reach me:
-* <a href="mailto:julicmrgo@gmail.com">email</a>
-* <a href="https://www.linkedin.com/in/julian-camargo/">linkedin</a>
+  * <a href="mailto:julicmrgo@gmail.com">email</a>
+  * <a href="https://www.linkedin.com/in/julian-camargo/">linkedin</a>
 
 <!---
 julian87nicolas/julian87nicolas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
