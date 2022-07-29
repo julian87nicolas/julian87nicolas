@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Julián Camargo
+- 👋 Hi, I’m Julián Camargo, backend java developer at Sitrack!
 - 👀 I’m interested in web development and machine learning
 - 🌱 I’m currently learning frontend development (<a href="https://frontendmasters.com">FrontEndMasters</a>) and deeplearning (<a href="https://www.kaggle.com">Kaggle</a> and <a href="https://www.freecodecamp.org">FreeCodeCamp</a>)
 - 💞️ I’m looking to collaborate on projects that improve my learning 
